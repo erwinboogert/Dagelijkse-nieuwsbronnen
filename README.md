@@ -45,6 +45,7 @@ Bronnen die ik dagelijks raadpleeg als journalist met focus op Europese tech, di
 ## E-mail
 - [The European Correspondent](https://europeancorrespondent.com/en)
 - [Euractiv - Rapporteur](https://www.euractiv.com/rapporteur-newsletter/)
+- [ChinaTalk](https://www.chinatalk.media/)
 
 ## Podcasts
 
